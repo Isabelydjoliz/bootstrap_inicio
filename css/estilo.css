@@ -1,5 +1,7 @@
-.containermainmeio{
-    text-align: center;
-    width: 60%;
-    height: auto;
+body{
+    background-color: rgb(76, 88, 156);
 }
+.colcanto {
+    flex: 1 0 0%;
+    padding-left: 5%;
+  }
